@@ -20,3 +20,8 @@
   };
   ```
 - -Déploiement au push de l'application sur scalingo
+
+Déploiement : https://mytodo-gehringerhugo.osc-fr1.scalingo.io/ 
+
+![Scalingo](scalingo.png)
+![app](app.png)
